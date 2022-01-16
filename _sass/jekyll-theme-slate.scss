@@ -338,7 +338,6 @@ Full-Width Styles
   background: #212121;
 }
 
-
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
@@ -350,7 +349,7 @@ Small Device Styles
   
   table {
     max-width: 992px;
-}
+  }
 
 @media screen and (max-width: 480px) {
   body {
@@ -397,7 +396,6 @@ Small Device Styles
   code, pre {
     font-size: 11px;
   }
-
 }
 
 @media screen and (max-width: 320px) {
