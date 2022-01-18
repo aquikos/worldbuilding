@@ -359,7 +359,17 @@ Full-Width Styles
   background: #212121;
 }
 
+.sinspc {
+  letter-spacing: 1px;
+}
 
+.dblspc {
+  letter-spacing: 2px;
+}
+
+.tplspc {
+  letter-spacing: 3px;
+}
 
 /*******************************************************************************
 Small Device Styles
