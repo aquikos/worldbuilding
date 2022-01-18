@@ -1,6 +1,24 @@
 @import "rouge-github";
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-  
+
+@font-face {
+  font-family: 'Noto Sans';
+  url('htts://aquikos.github.io/worldbuilding/Fonts/NotoSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Noto Sans Bold';
+  url('htts://aquikos.github.io/worldbuilding/Fonts/NotoSans-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Noto Sans BoldItalic';
+  url('htts://aquikos.github.io/worldbuilding/Fonts/NotoSans-BoldItalic.ttf');
+}
+
+@font-face {
+  font-family: 'Noto Sans Italic';
+  url('htts://aquikos.github.io/worldbuilding/Fonts/NotoSans-Italic.ttf');
+}
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
