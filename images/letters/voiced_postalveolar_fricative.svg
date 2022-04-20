@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="15mm"
+   height="8mm"
+   viewBox="0 0 15 8"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="voiced_postalveolar_fricative.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.877186"
+     inkscape:cx="21.308491"
+     inkscape:cy="63.126404"
+     inkscape:window-width="975"
+     inkscape:window-height="1048"
+     inkscape:window-x="936"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g972">
+      <g
+         id="g15424"
+         transform="rotate(180,53.5,4.500028)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path15420"
+           sodipodi:type="arc"
+           sodipodi:cx="93.5"
+           sodipodi:cy="5.0000277"
+           sodipodi:rx="1.5000275"
+           sodipodi:ry="2.5000277"
+           sodipodi:start="4.712389"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="arc"
+           sodipodi:open="true"
+           d="M 93.5,2.5 A 1.5000275,2.5000277 0 0 1 95.000028,5.0000277 1.5000275,2.5000277 0 0 1 93.5,7.5000553" />
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse15422"
+           cx="96.75"
+           cy="5"
+           rx="1.75"
+           ry="2.5" />
+      </g>
+      <g
+         id="g69710"
+         transform="rotate(180,14.765167,27.413618)">
+        <g
+           id="g69708"
+           transform="translate(6.082294,0.096574)">
+          <g
+             id="g69706">
+            <g
+               id="g69698"
+               transform="translate(-5.261456,0.172926)" />
+            <g
+               id="g70978"
+               transform="translate(4.2094951,44.807736)">
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 20.5,6.25 v -3"
+                 id="path69694"
+                 sodipodi:nodetypes="cc"
+                 transform="translate(-5.2614569,0.17292519)" />
+              <circle
+                 style="fill:#000012;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="circle69696"
+                 cx="20.5"
+                 cy="3.25"
+                 r="0.5"
+                 transform="translate(-5.2614569,0.17292519)" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="path69814"
+                 transform="scale(-1)"
+                 sodipodi:type="arc"
+                 sodipodi:cx="-17.738544"
+                 sodipodi:cy="-5.9229259"
+                 sodipodi:rx="2.5"
+                 sodipodi:ry="2.5"
+                 sodipodi:start="4.712389"
+                 sodipodi:end="0"
+                 sodipodi:arc-type="arc"
+                 sodipodi:open="true"
+                 d="m -17.738544,-8.4229259 a 2.5,2.5 0 0 1 2.5,2.5" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="path70468"
+                 transform="rotate(90)"
+                 sodipodi:type="arc"
+                 sodipodi:cx="5.9229259"
+                 sodipodi:cy="-12.738544"
+                 sodipodi:rx="2.5"
+                 sodipodi:ry="2.5"
+                 sodipodi:start="4.712389"
+                 sodipodi:end="0"
+                 sodipodi:arc-type="arc"
+                 sodipodi:open="true"
+                 d="m 5.9229259,-15.238544 a 2.5,2.5 0 0 1 2.5,2.5" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
