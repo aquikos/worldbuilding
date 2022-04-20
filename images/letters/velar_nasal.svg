@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8mm"
+   height="8mm"
+   viewBox="0 0 8 8"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="velar_nasal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6547419"
+     inkscape:cx="12.430587"
+     inkscape:cy="67.991545"
+     inkscape:window-width="961"
+     inkscape:window-height="970"
+     inkscape:window-x="956"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4892"
+       sodipodi:type="arc"
+       sodipodi:cx="3.6338878"
+       sodipodi:cy="4"
+       sodipodi:rx="2.4999704"
+       sodipodi:ry="2.5003049"
+       sodipodi:start="3.9269908"
+       sodipodi:end="2.3561945"
+       sodipodi:arc-type="arc"
+       sodipodi:open="true"
+       d="M 1.8661417,2.2320175 A 2.4999704,2.5003049 0 0 1 4.590585,1.6900194 2.4999704,2.5003049 0 0 1 6.1338582,4 2.4999704,2.5003049 0 0 1 4.590585,6.3099806 2.4999704,2.5003049 0 0 1 1.8661417,5.7679826" />
+  </g>
+</svg>

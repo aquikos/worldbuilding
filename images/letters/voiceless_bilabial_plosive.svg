@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="15mm"
+   height="8mm"
+   viewBox="0 0 15 8"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="voiceless_bilabial_plosive.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6547419"
+     inkscape:cx="28.251334"
+     inkscape:cy="63.471331"
+     inkscape:window-width="961"
+     inkscape:window-height="970"
+     inkscape:window-x="956"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1142"
+       transform="translate(-19.000028,-39)">
+      <g
+         id="g13332"
+         transform="translate(19.395302,37.626007)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 3.604698,2.8739933 v 5"
+           id="path13328"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 6.104698,5.3739933 h -5"
+           id="path13330"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g15400"
+         transform="rotate(90,44.000028,-8.9999725)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path15396"
+           sodipodi:type="arc"
+           sodipodi:cx="93.5"
+           sodipodi:cy="5.0000277"
+           sodipodi:rx="1.5000275"
+           sodipodi:ry="2.5000277"
+           sodipodi:start="4.712389"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="arc"
+           sodipodi:open="true"
+           d="M 93.5,2.5 A 1.5000275,2.5000277 0 0 1 95.000028,5.0000277 1.5000275,2.5000277 0 0 1 93.5,7.5000553" />
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse15398"
+           cx="96.75"
+           cy="5"
+           rx="1.75"
+           ry="2.5" />
+      </g>
+    </g>
+  </g>
+</svg>
