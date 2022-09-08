@@ -1,0 +1,213 @@
+Verbs:
+
+    Auxiliary subjunctive marker *pel displaces original *sal-
+
+    Auxiliary imperative marker *madan displaces original *mu-
+
+    Auxiliary potential marker *xendos arises
+
+    Perfective
+
+    Imperfective
+
+
+Nouns:
+
+    (5.2kya) Plural marker *-dur( -> ður) displaces original *-na
+
+    (4.8kya) Accusative case marker *-ron( -> rõ) displaces original *-me
+
+    (4.5kya) Original Dative marker *-fi( -> hi) -> Genitive Case
+
+    (4.5kya) New Dative marker *-tʼuk( -> tug) fills the gap
+
+    (4.1kya) Original Locative marker *-ne( -> ne) -> Instrumental
+
+    (4.1kya) New Locative marker *-mob( -> mov) fills the gap
+
+    (3.7kya) Privative/Abessive case marker *pʼam( -> paː) arises
+
+    (3kya) Several location-based cases arise:
+
+        Adessive case marker *-mevu( -> my) arises
+
+        Inessive case marker *-lum( -> lau) arises
+
+        Ablative case marker *-pʼis( -> pai) arises
+
+        Elative case marker *-fʼekre( -> fɛɣrɛ) arises
+
+        Lative case marker *-sʼuj( -> say) arises
+
+        Illative case marker *-nur( -> nʊr) arises
+
+    (2.2kya) Vocative case marker *-sʼot( -> sɔð) arises
+
+    (1.4kya) Genitive case marker *-jon( -> yː) displaces original *-fi
+
+    (800ya) Instrumental/Comitative case marker *pol( -> bɔɫ) arises
+
+Original Cases:
+
+    1. Nominative *-ø
+    2. Accusative *-me
+    3. Dative *-fi
+    4. Gentitive *-do
+    5. Locative *-ne
+
+Modern Cases:
+
+    1. Nominative
+    2. Accusative
+    3. Dative
+    4. Genitive
+    5. Instrumental
+    6. Privative 
+    7. Locative
+    8. Illative
+    9. Elative
+    10. Inessive
+    11. Adessive
+    12. Lative
+    13. Ablative
+    14. Vocative
+    15. Partitive
+
+mé éu xa 
+
+rule of people
+
+rule person-GEN-PLU
+
+sénó
+
+lizoréi - person.GEN.PLU
+
+vuna
+vume
+vumena
+vufi
+vufina
+vudo
+vudona
+vune
+vunena
+
+mej
+jog
+tek
+vu
+
+Nouns:
+
+    Open Stems:
+
+        Nom: -∅
+        Acc: -me
+        Dat: -fi
+        Gen: -do
+        Loc: -ne
+        Plu: -na
+
+    Closed Stems:
+
+        j/w stems: Behave like open stems
+
+        voiceless stems:
+
+            Nom: -∅
+            Acc: -ej
+            Dat: -iw
+            Gen: -if
+            Loc: -es
+            Plu: -an
+
+        voiced stems:
+
+        r/l stems:
+
+        nasal stems:
+
+Verbs:
+
+    Open Stems:
+
+        i/u stems:
+
+        e/o stems:
+        
+        a stems:
+
+    Closed Stems:
+
+        j/w stems:
+
+        voiceless stems:
+
+        voiced stems:
+
+        r/l stems:
+
+        nasal stems:
+
+ɣil
+
+tʼeb
+
+mej
+
+jog
+
+tek
+
+vu
+
+apan
+apem
+apif
+apo
+apen
+
+f
+t
+s
+k
+x
+m
+n
+ŋ
+w
+r
+j
+l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
