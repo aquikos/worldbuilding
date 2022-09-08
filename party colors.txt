@@ -1,0 +1,246 @@
+1: #c920a4 (Pink) - Rétómun 
+6: #8ebfee (Pastel Blue) - Rétómun
+10: #f9ca0b (Yellow) - Rétómun
+13: #028847 (Green) - Rétómun
+
+Parties:
+
+    Official Name: Rétómun Lizŏrai Liré (Liran People's Party)
+    Nickname: Lizŏrai
+    Member Term: Lizŏmajé(zu)
+    Abbreviation: LZR (li-zo-rai)
+    Official Color: Navy (#150f6d)
+    Political Position: Progressive
+
+    Official Name: Rétómun Sénólizum Liré (Liran Democratic Party)
+    Nickname: Rétómun Sénólizum
+    Member Term: Sénólizumajé
+    Abbreviation: SLZ (sé-li-zum)
+    Official Color: Purple (#5f208b)
+    Political Position: Moderate-Conservative
+
+    Official Name: Rétómun Sénósăwasóm Liré (Liran Monarchist Party)
+    Nickname: Sénósăwasóm
+    Member Type: Sawăsómajé(zu)
+    Abbreviation: SNW (sé-nó-wa)
+    Official Color: Dark Red (#9f0407)
+    Political Position: Very Conservative
+
+    Official Name: Rétómun Dĕimăma Liré (Liran Nationalist Party)
+    Nickname: Dĕimăma
+    Member Type: Dĕimămajé(zu)
+    Abbreviation: RDL (ré-dĕi-li)
+    Official Color: Light Blue (#8ebfee)
+    Political Position: Very Progressive
+
+    Official Name: Lénăzu di Mévuzu Liré (Liran Brothers and Sisters)
+    Nickname: Lénăzu di Mévuzu
+    Member Type: Léméjé(zu)
+    Abbreviation: LDM (lé-di-mé)
+    Official Color: Teal (#267a87)
+    Political Position: Very Progressive
+
+    Official Name: Rétómun Nayóma Liré (Liran Centrist Party)
+    Nickname: Nayóma
+    Member Type: Nayómajé(zu)
+    Abbreviation: NYM (na-yó-ma)
+    Official Color: Dark Green (#053f1f)
+    Political Position: Moderate-Progressive
+
+    Official Name: Rétómun Sainămóm Dumĕsó (United Sainămist Party)
+    Nickname: Rétómun Sainămóm
+    Member Type: Sainămójé(zu)
+    Abbreviation: RSD (ré-sai-du)
+    Official Color: Pastel Yellow (#f9f973) 
+    Political Position: Fairly Conservative to Conservative
+
+    Official Name: Rétómun Barózóm Liré (Liran Life/Vitality Party)
+    Nickname: Barózóm
+    Member Type: Barózómajé(zu)
+    Abbreviation: BRM (ba-ró-zóm)
+    Official Color: Orange (#f4862d)
+    Political Position: Conservative to Very Conservative
+
+Dĕimózu Liré Dumĕsó
+
+Total Population: 131.92
+
+    1. 31.56m
+    2. 22.43m
+    3. 17.10m
+    4. 14.99m
+    5. 12.01m
+    6. 10.55m
+    7. 9.06m
+    8. 8.25m
+    9. 5.97m
+
+Membership in the Générémós is based on the total population of the country.
+There are 144 seats in the Générémós.
+Seats are distributed between states based on the total population divided 
+by the number of seats in GNMR.
+
+Overflow seats are determined by which state has the highest remainder.
+Every state is, however, always guaranteed the full integer value of their seats.
+
+Example: State 1 has 34.6 seats, and State 2 has 28.8 seats. 
+State 2 would get the extra seat.
+This applies even when the decimal is <0.5.
+
+Seat Distribution(Following most recent census):
+
+    1. 34
+    2. 24
+    3. 19
+    4. 16
+    5. 13
+    6. 12
+    7. 10
+    8. 9
+    9. 7
+
+From there, parties get candidates based on the statewide election.
+If a party gets 50% of the state's votes, they get 50% of the state's seats.
+The required percentage to get a seat from any state varies by the amount of seats in that state.
+The cutoff in (State 1) is much lower than the cutoff in (State 9) for example. 
+
+1 - Very Progressive
+2 - Progressive
+3 - Progressive
+4 - Fairly Progressive
+5 - Fairly Progressive
+6 - Fairly Conservative
+7 - Fairly Conservative
+8 - Conservative
+9 - Very Conservative
+
+RDL - Very Progressive - Light Blue
+LDM - Progressive - Teal
+LZR - Progressive - Navy
+NYM - Moderate-Progressive - Dark Green
+SLZ - Moderate-Conservative - Purple
+RSD - Moderate-Conservative - Pastel Yellow
+BRM - Conservative - Orange
+SNW - Very-Conservative - Dark Red
+
+1: 34
+
+    RDL - 4 Seats
+    LDM - 5 Seats
+    LZR - 12 Seats
+    NYM - 7 Seats
+    SLZ - 3 Seats
+    RSD - 2 Seats
+    BRM - 1 Seats
+    SNW - 0 Seats
+
+2: 24
+
+    RDL - 2 Seats
+    LDM - 3 Seats
+    LZR - 3 Seats
+    NYM - 7 Seats
+    SLZ - 4 Seats
+    RSD - 2 Seats
+    BRM - 2 Seats
+    SNW - 1 Seats
+
+3: 19
+
+    RDL - 2 Seats
+    LDM - 6 Seats
+    LZR - 5 Seats
+    NYM - Seats
+    SLZ - Seats
+    RSD - Seats
+    BRM - Seats
+    SNW - Seats
+
+4: 16
+
+    RDL - Seats
+    LDM - Seats
+    LZR - Seats
+    NYM - Seats
+    SLZ - Seats
+    RSD - Seats
+    BRM - Seats
+    SNW - Seats
+
+5: 13
+
+    RDL - Seats
+    LDM - Seats
+    LZR - Seats
+    NYM - Seats
+    SLZ - Seats
+    RSD - Seats
+    BRM - Seats
+    SNW - Seats
+
+6: 12
+
+    RDL - Seats
+    LDM - Seats
+    LZR - Seats
+    NYM - Seats
+    SLZ - Seats
+    RSD - Seats
+    BRM - Seats
+    SNW - Seats
+
+7: 10
+
+    RDL - Seats
+    LDM - Seats
+    LZR - Seats
+    NYM - Seats
+    SLZ - Seats
+    RSD - Seats
+    BRM - Seats
+    SNW - Seats
+
+8: 9
+
+    RDL - Seats
+    LDM - Seats
+    LZR - Seats
+    NYM - Seats
+    SLZ - Seats
+    RSD - Seats
+    BRM - Seats
+    SNW - Seats
+
+9: 7
+
+    RDL - 0 Seats
+    LDM - 0 Seats
+    LZR - 0 Seats
+    NYM - 1 Seats
+    SLZ - 0 Seats
+    RSD - 1 Seats
+    BRM - 2 Seats
+    SNW - 3 Seats
+
+King Homena made a new calendar in year 0 and it went into effect to create year 1.
+
+The current Liran calendar was made approximately 2665 earth years ago, and 3665 Liran years ago
+
+The country was founded 216.4 years ago
+
+6 Year election cylces for Sénójés
+
+3 Year Election cycles for Généjés
+
+Current Year: 3665
+  
+
+
+
+
+
+
+
+
+
+

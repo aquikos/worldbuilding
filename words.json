@@ -1,0 +1,873 @@
+{
+    "words": {
+        "ré": {
+            "etymology": "From Proto-Liran *reng ('this')",
+
+            "type": "Definite Article",
+            "ipa": "/ɾe/",
+            "definition": "the",
+            "tags": ""
+        },
+
+        "-ré": {
+            "etymology": "From Proto-Liran *raj ('place, location')",
+
+            "type": "Verbal Suffix",
+            "ipa": "/ɾe/",
+            "definition": "Used to form nouns from verbs. Typically denotes a place where the given verb takes place.",
+            "tags": ""
+        },
+
+        "bau": {
+            "etymology": "From Proto-Liran *pel ('to wish, to desire')",
+
+            "type": "Auxiliary Verb",
+            "ipa": "/bäu̯/",
+            "definition": "Subjunctive modal auxiliary verb.",
+            "tags": ""
+        },
+
+        "ézó": {
+            "etymology": "From Proto-Liran *xendos ('to be able')",
+
+            "type": "Auxiliary Verb",
+            "ipa": "/ezo/",
+            "definition": "Potential modal auxiliary verb.",
+            "tags": ""
+        },
+
+        "xa": {
+            "etymology": "From Proto-Liran *k'es ('in addition, also, too')",
+
+            "type": "Adverb",
+            "ipa": "/ʃä/",
+            "definition": "too, also, as well",
+            "tags": ""
+        },
+
+        "di": {
+            "etymology": "From Proto-Liran *tim ('and')",
+
+            "type": "Conjunction",
+            "ipa": "/di/",
+            "definition": "and",
+            "tags": ""
+        },
+
+        "méi": {
+            "etymology": "From Proto-Liran *miwda ('to build, to cover, to conceal')",
+
+            "type": "Noun",
+            "ipa": "/mei̯/",
+            "definition": "house.",
+            "tags": ""
+        },
+
+        "éu": {
+            "etymology": "From Proto-Liran *ghil ('I')",
+
+            "type": "Pronoun",
+            "ipa": "/eu̯/",
+            "definition": "First person singular pronoun",
+            "tags": ""
+        },
+
+        "tau": {
+            "etymology": "From Proto-Liran *t'eb ('We')",
+
+            "type": "Pronoun",
+            "ipa": "/tou̯/",
+            "definition": "First person plural pronoun.",
+            "tags": ""
+        },
+
+        "mé": [
+            {
+                "etymology": "From Proto-Liran *mej ('You, Thou')",
+
+                "type": "Pronoun",
+                "ipa": "/me/",
+                "definition": "Second person singular pronoun.",
+                "tags": ""
+            },
+            {
+                "etymology": "From Proto-Liran *magh",
+
+                "type": "",
+                "ipa": "/me/",
+                "definition": "",
+                "tags": ""
+            }
+        ],
+
+        "ai": [
+            {
+                "etymology": "From Proto-Liran *jog ('You')",
+
+                "type": "Pronoun",
+                "ipa": "/ei̯/",
+                "definition": "Second person plural pronoun.",
+                "tags": ""
+            },
+
+            {
+                "etymology": "From Proto-Liran *wem",
+
+                "type": "Noun",
+                "ipa": "/ei̯",
+                "definition": "Two"
+            }
+        ],
+
+        "dĕ": {
+            "etymology": "From Proto-Liran *tek ('He, She, They')",
+
+            "type": "Pronoun",
+            "ipa": "/dɛ/",
+            "definition": "Third person singular pronoun.",
+            "tags": ""
+        },
+
+        "u": {
+            "etymology": "From Proto-Liran *vu ('They')",
+
+            "type": "Pronoun",
+            "ipa": "/u/",
+            "definition": "Third person plural pronoun.",
+            "tags": ""
+        },
+
+        "li": {
+            "etymology": "From Proto-Liran *lim ('Person, Human')",
+
+            "type": "Noun",
+            "ipa": "/li/",
+            "definition": "A Liran Person.",
+            "tags": ""
+        },
+
+        "riu": {
+            "etymology": "From Proto-Liran *rakal ('tongue')",
+
+            "type": "Noun",
+            "ipa": "/ɾeu̯/",
+            "definition": "language",
+            "tags": ""
+        },
+
+        "sawă": {
+            "etymology": "From Proto-Liran *sowan ('to command, to order')",
+
+            "type": "Noun",
+            "ipa": "/säu/",
+            "definition": "king, ruler, emperor",
+            "tags": ""
+        },
+
+        "sayăwa": {
+            "etymology": "From Proto-Liran *sokowi ('to like, to enjoy')",
+
+            "type": "Verb",
+            "ipa": "/säj(ə)wä ~ säjwä ~ säi̯wə/",
+            "definition": "to love",
+            "tags": ""
+        },
+
+        "-mó": {
+            "etymology": "From Proto-Liran *mow ('high, tall')",
+
+            "type": "Augmentative Suffix",
+            "ipa": "/mo/",
+            "definition": "Lowest General Augmentative",
+            "tags": ""
+        },
+
+        "-sa": {
+            "etymology": "From Proto-Liran *so ('great, all')",
+
+            "type": "Augmentative Suffix",
+            "ipa": "/sä/",
+            "definition": "Median General Augmentative",
+            "tags": ""
+        },
+
+        "-mósă": {
+            "etymology": "Equivalent to -mó + sa",
+
+            "type": "Augmentative Suffix",
+            "ipa": "/mos/",
+            "definition": "Highest General Augmentative",
+            "tags": ""
+        },
+
+        "iră": {
+            "etymology": "From Proto-Liran *jut'ira ('to strike, to stab')",
+
+            "type": "ir",
+            "ipa": "/iɾ/",
+            "definition": "to have sex",
+            "tags": "Vulgar"
+        },
+
+        "sayă": {
+            "etymology": "From Proto-Liran *s'ekan ('to defile')",
+
+            "type": "Verb",
+            "ipa": "/säi̯/",
+            "definition": "to have oral sex",
+            "tags": "Vulgar"
+        },
+
+        "izĕra": {
+            "etymology": "From Proto-Liran *jadure ('to thrust, to attack')",
+
+            "type": "Verb",
+            "ipa": "/izɛrä/",
+            "definition": "to have vaginal sex",
+            "tags": "Vulgar"
+        },
+
+        "kasu": {
+            "etymology": "From Proto-Liran *k'ot'ung ('to impale')",
+
+            "type": "Verb",
+            "ipa": "/käsu/",
+            "definition": "to have anal sex",
+            "tags": "Vulgar"
+        },
+
+        "si": 
+            [
+            {
+                "etymology": "From Proto-Liran *s'ejxe ('to suck')",
+
+                "type": "Verb",
+                "ipa": "/si/",
+                "definition": "to perform oral sex on a penis",
+                "tags": "Vulgar"
+            },
+
+            {
+                "etymology": "From Proto-Liran *s'in",
+
+                "type": "",
+                "ipa": "/si/",
+                "definition": "",
+                "tags": ""
+            }
+        ],
+
+        "vasé": {
+            "etymology": "From Proto-Liran *bet'aj ('to lick')",
+
+            "type": "Verb",
+            "ipa": "/väse/",
+            "definition": "to perform oral sex on a vagina",
+            "tags": "Vulgar"
+        },
+
+        "bali": {
+            "etymology": "From Proto-Liran *pelim ('breast')",
+
+            "type": "Noun",
+            "ipa": "/bäli//",
+            "definition": "breast, tit, titty",
+            "tags": "Vulgar"
+        },
+
+        "marŏ": {
+            "etymology": "From *muruz",
+
+            "type": "Noun",
+            "ipa": "/mɔru/",
+            "definition": "A submissive person; A bitch",
+            "tags": "Vulgar"
+        },
+
+        "pĕzĕ": {
+            "etymology": "From Proto-Liran *p'itak ('tip, edge')",
+
+            "type": "Noun",
+            "ipa": "/pɛzə/",
+            "definition": "penis, dick, cock",
+            "tags": "Vulgar"
+        },
+
+        "liró": {
+            "etymology": "From Proto-Liran *limros, lim + -ros ('People (Collective)')",
+
+            "type": "Noun",
+            "ipa": "/liɾo/",
+            "definition": "The Liran People",
+            "tags": ""
+        },
+
+        "liré": {
+            "etymology": "From Proto-Liran *limrosfi, (originally) the dative of limros",
+
+            "type": "Noun",
+            "ipa": "/liɾe/",
+            "definition": "Adjective to describe several terms regarding Liran people. Dĕimó Liré, Réu Liré, etc.",
+            "tags": ""
+        },
+
+        "géné": {
+            "etymology": "From Proto-Liran *kajnagh ('to think, to arrange, to advise')",
+
+            "type": "Verb",
+            "ipa": "/gene/",
+            "definition": "to discuss, to advise, to counsel",
+            "tags": ""
+        },
+
+        "généré": {
+            "etymology": "From géné + ré",
+
+            "type": "Noun",
+            "ipa": "/geneɾe/",
+            "definition": "Council",
+            "tags": ""
+        },
+
+        "générémós": {
+            "etymology": "From généré + -mós",
+            
+            "type": "Noun",
+            "ipa": "/geneɾemos/",
+            "definition": "National Council, similar to a Parliament or House of Representatives",
+            "tags": ""
+        },
+
+        "rétó": {
+            "etymology": "From Proto-Liran *zart'ow ('to split, to divide, to cut')",
+
+            "type": "Verb",
+            "ipa": "/ɾeto/",
+            "definition": "to separate, to split",
+            "tags": ""
+        },
+
+        "rétómun": {
+            "etymology": "From rétó (to split, to divide, to cut) + mună (Resultative Verb to Noun Suffix)",
+
+            "type": "Noun",
+            "ipa": "/retomun/",
+            "definition": "Party, Faction, Sect",
+            "tags": ""
+        },
+
+        "ró": {
+            "etymology": "From Proto-Liran *-ros (Collective Suffix)",
+
+            "type": "Noun Suffix",
+            "ipa": "/ɾo/",
+            "definition": "Non-productive mass noun suffix.",
+            "tags": ""
+        },
+
+        "-munā": {
+            "etymology": "From Proto-Liran *murno",
+
+            "type": "Verbal Suffix",
+            "ipa": "/mun/",
+            "definition": "Typically creates resultative nouns from the verbal root.",
+            "tags": ""
+        },
+
+        "sénó": {
+            "etymology": "From Proto-Liran *segnos ('to rule, to lead')",
+
+            "type": "Noun",
+            "ipa": "/seno/",
+            "definition": "Power, might, rule",
+            "tags": ""
+        },
+
+        "Sénólizu": {
+            "etymology": "Equivalent to sénó + lizu",
+
+            "type": "Noun",
+            "ipa": "/seno/",
+            "definition": "Power, might, rule",
+            "tags": ""
+        },
+
+        "ali": {
+            "etymology": "From Proto-Liran *'olivija(small, short)",
+
+            "type": "Noun",
+            "ipa": "/äli/",
+            "definition": "Affectionate diminutive suffix",
+            "tags": ""
+        },
+
+        "Élósa": {
+            "etymology": "From Proto-Liran *'eflor( + *so('great, all')",
+
+            "type": "Noun",
+            "ipa": "/elosä/",
+            "definition": "Liran God of Life, Birth, and the Day.",
+            "tags": ""
+        },
+
+        "Arósa": {
+            "etymology": "From Proto-Liran *'azor + *so('great, all')",
+
+            "type": "Noun",
+            "ipa": "/äɾosä/",
+            "definition": "Liran God of Death, the Afterlife, and the Night.",
+            "tags": ""
+        },
+
+        "Déumăsa": {
+            "etymology": "From Proto-Liran *tejilme + *so('great, all')",
+
+            "type": "Noun",
+            "ipa": "/deu̯məsä/",
+            "definition": "Liran God of Justice, Truth, Peace, and Order.",
+            "tags": ""
+        },
+
+        "Burăsa": {
+            "etymology": "From Proto-Liran *pusra + *so('great, all')",
+
+            "type": "Noun",
+            "ipa": "/buɾəsä/",
+            "definition": "Liran Goddess of War, Violence, Chaos, Deception, and Illness.",
+            "tags": ""
+        },
+
+        "Garăsa": {
+            "etymology": "From Proto-Liran *katro + *so('great, all')",
+
+            "type": "Noun",
+            "ipa": "/gäɾəsä/",
+            "definition": "Liran God of the Arts, Music, Love, Medicine, Beauty, and Crafts.",
+            "tags": ""
+        },
+
+        "Xésă": {
+            "etymology": "From Proto-Liran *k'estar + *so('great, all')",
+
+            "type": "Noun",
+            "ipa": "/ʃes/",
+            "definition": "Liran Goddess of Water, Oceans, Rivers, Rain, and Floods.",
+            "tags": ""
+        },
+
+        "Dunisa": {
+            "etymology": "From Proto-Liran *tusnuji + *so('great, all')",
+
+            "type": "Noun",
+            "ipa": "/dunisä/",
+            "definition": "Liran Goddes of Animals, Hunting, Fortune, and Wealth",
+            "tags": ""
+        },
+
+        "Narisa": {
+            "etymology": "From Proto-Liran *naruji + *so('great, all')",
+
+            "type": "Noun",
+            "ipa": "/näɾisä/",
+            "definition": "Liran Goddess of Agriculture, Fertility, Healing, Maternity, and Lust",
+            "tags": ""
+        },
+
+        "Miusă": {
+            "etymology": "From Proto-Liran *mijal + *so('great, all')",
+
+            "type": "Noun",
+            "ipa": "/meu̯s/",
+            "definition": "Liran God of Wisdom, Intelligence, Strategy, and Royalty.",
+            "tags": ""
+        },
+
+        "Sainămó": {
+            "etymology": "From Proto-Liran *saskan(to do, to enact) and *mos",
+
+            "type": "Noun",
+            "ipa": "/seinəmo/",
+            "definition": "Refers to all Liran Gods.",
+            "tags": ""
+        },
+
+        "Sainămóm": {
+            "etymology": "Equivalent to Sainămó + mă.",
+
+            "type": "Noun",
+            "ipa": "/seinəmom/",
+            "definition": "Refers to the Liran Religion.",
+            "tags": ""
+        },
+
+        "mă": {
+            "etymology": "From Proto-Liran *mo('')",
+
+            "type": "Noun Suffix",
+            "ipa": "/ma/, /m/",
+            "definition": "Forms Nouns with the meaning 'of or relating to (the root)'. Similar to English -ish, -ity, -tion, etc..",
+            "tags": ""
+        },
+
+        "ĕlĕ": {
+            "etymology": "From Proto-Liran *'ulin",
+
+            "type": "",
+            "ipa": "/ɛlə/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "déli": {
+            "etymology": "From Proto-Liran *tenlim",
+
+            "type": "",
+            "ipa": "/deli/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "ayău": {
+            "etymology": "From Proto-Liran *x'akol",
+
+            "type": "",
+            "ipa": "/äjo/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "nazŏ": {
+            "etymology": "From Proto-Liran *",
+
+            "type": "",
+            "ipa": "/näzə/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "nisĕ": {
+            "etymology": "From Proto-Liran *nujsi",
+
+            "type": "",
+            "ipa": "/nisə/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "émăru": {
+            "etymology": "From Proto-Liran *'osmaghrur",
+
+            "type": "",
+            "ipa": "/eməɾu/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "zulu": {
+            "etymology": "From Proto-Liran *duslur",
+
+            "type": "",
+            "ipa": "/zulu/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "róu": {
+            "etymology": "From Proto-Liran *rak'ol",
+
+            "type": "",
+            "ipa": "/rou̯/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "sĕlé": {
+            "etymology": "From Proto-Liran *silem",
+
+            "type": "",
+            "ipa": "/sɛle/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "zĕri": {
+            "etymology": "From Proto-Liran *dizim",
+
+            "type": "",
+            "ipa": "/zɛɾi/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "wizĕ": {
+            "etymology": "From Proto-Liran *wifti",
+
+            "type": "",
+            "ipa": "/wizə/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "réi": {
+            "etymology": "From Proto-Liran *zata",
+
+            "type": "",
+            "ipa": "/ɾei̯/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "ya": {
+            "etymology": "From Proto-Liran *",
+
+            "type": "Noun",
+            "ipa": "/jä/",
+            "definition": "One",
+            "tags": ""
+        },
+
+        "nŏur": {
+            "etymology": "From Proto-Liran *nupar",
+
+            "type": "Noun",
+            "ipa": "/näu̯ɾ/",
+            "definition": "Three",
+            "tags": ""
+        },
+
+        "nésĕi": {
+            "etymology": "From Proto-Liran *najsid",
+
+            "type": "Noun",
+            "ipa": "/nesäi̯/",
+            "definition": "Four",
+            "tags": ""
+        },
+
+        "résu": {
+            "etymology": "From Proto-Liran *rojs'un",
+
+            "type": "Noun",
+            "ipa": "/ɾesu/",
+            "definition": "Five",
+            "tags": ""
+        },
+
+        "fĕră": {
+            "etymology": "From Proto-Liran *f'iran",
+
+            "type": "Noun",
+            "ipa": "/fɛɾ/",
+            "definition": "Six",
+            "tags": ""
+        },
+
+        "daumi": {
+            "etymology": "From Proto-Liran *talmuj",
+
+            "type": "Noun",
+            "ipa": "/dou̯mi/",
+            "definition": "Seven",
+            "tags": ""
+        },
+
+        "méxi": {
+            "etymology": "From Proto-Liran *mefk'in",
+
+            "type": "Noun",
+            "ipa": "/meʃi/",
+            "definition": "Eight",
+            "tags": ""
+        },
+
+        "pĕu": {
+            "etymology": "From Proto-Liran *p'il",
+
+            "type": "Noun",
+            "ipa": "/päu̯/",
+            "definition": "Nine",
+            "tags": ""
+        },
+
+        "du": {
+            "etymology": "From Proto-Liran *tungxos",
+
+            "type": "Noun",
+            "ipa": "/du/",
+            "definition": "Ten",
+            "tags": ""
+        },
+
+        "lisŏi": {
+            "etymology": "From Proto-Liran *lint'ut",
+
+            "type": "Noun",
+            "ipa": "/lisäi̯/",
+            "definition": "Eleven",
+            "tags": ""
+        },
+
+        "sĕrŏi": {
+            "etymology": "From Proto-Liran *siruk",
+
+            "type": "",
+            "ipa": "/sɛɾäi̯/",
+            "definition": "Twelve",
+            "tags": ""
+        },
+
+        "ui": {
+            "etymology": "From Proto-Liran *wuda",
+
+            "type": "",
+            "ipa": "/oi/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "yasu": {
+            "etymology": "From Proto-Liran *jant'un",
+
+            "type": "",
+            "ipa": "/jäsu/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "fĕu": {
+            "etymology": "From Proto-Liran *f'il",
+
+            "type": "",
+            "ipa": "/fau/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "barózó": {
+            "etymology": "From Proto-Liran *poros(life, body, soul) *tor(to give)",
+
+            "type": "Noun",
+            "ipa": "/bäɾozo/",
+            "definition": "vital",
+            "tags": ""
+        },
+
+        "Dĕimó": {
+            "etymology": "From Proto-Liran *titama(to stand) + *k'o(river)",
+
+            "type": "Noun",
+            "ipa": "/dai̯mo/",
+            "definition": "Common name for the country of Liran people.",
+            "tags": ""
+        },
+
+        "Reu Liré": {
+            "etymology": "From Proto-Liran *rakal and *limrosfi",
+
+            "type": "",
+            "ipa": "/ɾeu̯ liɾe/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "Dĕimó Liré Dumĕsó": {
+            "etymology": "From Proto-Liran *titamak'o, *tuzmit'or, and *limrosfi",
+
+            "type": "",
+            "ipa": "/däi̯mo dumɛso liɾe/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "lénă": {
+            "etymology": "From Proto-Liran *lownaj",
+
+            "type": "Noun",
+            "ipa": "/len/",
+            "definition": "Brother",
+            "tags": ""
+        },
+
+        "mévu": {
+            "etymology": "From Proto-Liran *moɣbus",
+
+            "type": "Noun",
+            "ipa": "/mevu/",
+            "definition": "Sister",
+            "tags": ""
+        },
+
+        "lau": {
+            "etymology": "From Proto-Liran *lavaj",
+
+            "type": "Noun",
+            "ipa": "/lou̯/",
+            "definition": "Sister",
+            "tags": ""
+        },
+
+        "kĕnă": {
+            "etymology": "From Proto-Liran *k'unin",
+
+            "type": "Noun",
+            "ipa": "/ken/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "nal": {
+            "etymology": "From Proto-Liran *nanlo",
+
+            "type": "Noun",
+            "ipa": "/näl/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "lĕiró": {
+            "etymology": "From Proto-Liran *likros",
+
+            "type": "Noun",
+            "ipa": "/lairo/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "dé": {
+            "etymology": "From Proto-Liran *tetaz",
+
+            "type": "Noun",
+            "ipa": "/de/",
+            "definition": "",
+            "tags": ""
+        },
+
+        "móur": {
+            "etymology": "From Proto-Liran *mavraz",
+
+            "type": "Noun",
+            "ipa": "/mour/",
+            "definition": "River",
+            "tags": ""
+        },
+
+        "los": {
+            "etymology": "Good question",
+
+            "type": "Noun",
+            "ipa": "/mour/",
+            "definition": "River",
+            "tags": ""
+        },
+
+        "tó, só": {
+            "etymology": "From Proto-Liran *t'or",
+
+            "type": "Noun",
+            "ipa": "/to/, /so/",
+            "definition": "Non-productive agent noun suffix",
+            "tags": ""
+        }
+
+    }
+}

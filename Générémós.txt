@@ -1,0 +1,70 @@
+Total Population: 131.92
+
+    1. 31.56m (34 Seats)
+    2. 22.43m (24 Seats)
+    3. 17.10m (19 Seats)
+    4. 14.99m (16 Seats)
+    5. 12.01m (13 Seats)
+    6. 10.55m (12 Seats)
+    7. 9.06m (10 Seats)
+    8. 8.25m (9 Seats)
+    9. 5.97m (7 Seats)
+
+The Générémós, or, more specifically, the Générémós Liré, 
+is the highest legislative body in the Liran Republic. 
+
+It consists of a 144 member legislative body, with 8 parties 
+currently represented (as of the 3660 LY Election).
+
+All Généjés serve three year terms, and are limited to four terms total. 
+Each seat goes up for elections every three years, meaning that in any election,
+it is theoretically possible every single seat to be replaced, though this is at
+the discretion of the parties. 
+
+Instead of voting for individual candidates at a lower level, each state is 
+alotted a certain amount of seats in direct proportion to its population.
+To determine the threshold for obtaining a seat, the national population is 
+divided by the 144, the total number of seats. From there, the population of 
+each state is divided by this number, which is rounded to the thousands place. 
+Every state is guaranteed the integer value of the result of this operation. 
+If there are unfilled slots remaining, the state with the highest remainder is 
+given an extra seat first. This continues until every seat has been alotted.
+
+Using the 3660 election as an example, 4 seats remained after each state had 
+been given their baseline amount of seats. From there, State 7 theoretically had
+9.891, so they were the first state to get an "extra" seat. After that, State 3 
+had 18.668 seats, meaning they got the next extra seat. 
+
+Once every seat has been alotted, elections can occur. Citizens vote for parties 
+instead of candidates, and vote with the entire state instead of their locality.
+This system may seem bizarre, but it serves to eradicate gerrymandering, and to 
+ensure that every citizen's voice can be heard. The sole issue with this system
+is that the threshold for a party to obtain a seat in any given state will vary
+depending on how populous that state is. For example, in State 1, the most populous state, 
+any party is required to have percentage-wise is 2.9% of the vote. In State 9 
+however, parties are required to have 14.3% of the vote to get a seat. Upon deeper 
+analysis however, this argument falls apart, as every seat still requires approximately 
+the same population as any other.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
